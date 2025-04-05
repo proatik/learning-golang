@@ -8,3 +8,9 @@ This repository tracks my journey of learning Golang step by step. I document th
 - [x] Loops
 - [x] Values
 - [x] Variables
+
+## Day 02
+
+- [x] Arrays
+- [x] If-Else
+- [x] Switch
