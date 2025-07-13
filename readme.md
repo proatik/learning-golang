@@ -14,3 +14,9 @@ This repository tracks my journey of learning Golang step by step. I document th
 - [x] Arrays
 - [x] If-Else
 - [x] Switch
+
+## Day 03
+
+- [x] Slices
+- [x] Maps
+- [x] Functions
