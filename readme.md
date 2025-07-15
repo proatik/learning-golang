@@ -20,3 +20,9 @@ This repository tracks my journey of learning Golang step by step. I document th
 - [x] Slices
 - [x] Maps
 - [x] Functions
+
+## Day 04
+
+- [x] Multiple Return Values
+- [x] Variadic Functions
+- [x] Closures
