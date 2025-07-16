@@ -26,3 +26,9 @@ This repository tracks my journey of learning Golang step by step. I document th
 - [x] Multiple Return Values
 - [x] Variadic Functions
 - [x] Closures
+
+## Day 05
+
+- [x] Recursion
+- [x] Range
+- [x] Pointers
