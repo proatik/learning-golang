@@ -32,3 +32,9 @@ This repository tracks my journey of learning Golang step by step. I document th
 - [x] Recursion
 - [x] Range
 - [x] Pointers
+
+## Day 05
+
+- [x] Strings and Runes
+- [x] Struct
+- [x] Methods.
