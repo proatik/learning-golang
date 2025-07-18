@@ -38,3 +38,9 @@ This repository tracks my journey of learning Golang step by step. I document th
 - [x] Strings and Runes
 - [x] Struct
 - [x] Methods.
+
+## Day 06
+
+- [x] Interfaces
+- [x] Enums
+- [x] Struct Embedding
