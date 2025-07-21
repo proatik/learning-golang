@@ -44,3 +44,9 @@ This repository tracks my journey of learning Golang step by step. I document th
 - [x] Interfaces
 - [x] Enums
 - [x] Struct Embedding
+
+## Day 07
+
+- [x] Generics
+- [x] Range over Iterators
+- [x] Errors
