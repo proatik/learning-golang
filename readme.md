@@ -33,19 +33,19 @@ This repository tracks my journey of learning Golang step by step. I document th
 - [x] Range
 - [x] Pointers
 
-## Day 05
+## Day 06
 
 - [x] Strings and Runes
 - [x] Struct
 - [x] Methods.
 
-## Day 06
+## Day 07
 
 - [x] Interfaces
 - [x] Enums
 - [x] Struct Embedding
 
-## Day 07
+## Day 08
 
 - [x] Generics
 - [x] Range over Iterators
