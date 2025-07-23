@@ -50,3 +50,9 @@ This repository tracks my journey of learning Golang step by step. I document th
 - [x] Generics
 - [x] Range over Iterators
 - [x] Errors
+
+## Day 09
+
+- [x] Custom Errors
+- [x] Goroutines
+- [x] Channels
