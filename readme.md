@@ -37,7 +37,7 @@ This repository tracks my journey of learning Golang step by step. I document th
 
 - [x] Strings and Runes
 - [x] Struct
-- [x] Methods.
+- [x] Methods
 
 ## Day 07
 
@@ -56,3 +56,9 @@ This repository tracks my journey of learning Golang step by step. I document th
 - [x] Custom Errors
 - [x] Goroutines
 - [x] Channels
+
+## Day 10
+
+- [x] Channel Bufferin
+- [x] Channel Synchronizatio
+- [x] Channel Directions
